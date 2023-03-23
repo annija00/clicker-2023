@@ -1,0 +1,27 @@
+#canvas{
+    background-color: rgb(233, 232, 166);
+    height: 500px;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center ;
+}
+
+#score{
+    color: rgb(92, 122, 221);
+    font-size: 48px;
+}
+
+#button{
+    background-color: rgb(153, 208, 253);
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    color: rgb(243, 238, 242);
+    margin-top: 100px;
+}
